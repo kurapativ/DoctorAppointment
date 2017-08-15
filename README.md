@@ -9,7 +9,8 @@ Taking an appointment for a doctor is getting hard now-a-days and it turns even 
 With these ideas in mind I built a web application helps to check for a doctor in respective specialization and book an appointment with the doctor.
 
 Technologies used:
-Front-end: HTML, CSS.
-Back-end: JAVA, JSP.
-Database: Oracle.
+•	Front-end: HTML, CSS.
+•	Back-end: JAVA, JSP.
+•	Database: Oracle.
+.
 
