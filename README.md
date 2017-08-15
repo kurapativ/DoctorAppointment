@@ -6,7 +6,7 @@ Taking an appointment for a doctor is getting hard now-a-days and it turns even 
 3.	Book an appointment.
 4.	It even makes doctors easy to organize their appointments.
 
-With these ideas in mind I tried to build a web application helps to check for a doctor in respective specialization and book an appointment with the doctor.
+With these ideas in mind I built a web application helps to check for a doctor in respective specialization and book an appointment with the doctor.
 
 Technologies used:
 Front-end: HTML, CSS.
